@@ -21,3 +21,5 @@ If others reply to this comment:
 Email to 1st user (post creator): "user are replying on post for {{postname}}"
 Email to 2nd user (original commenter): "User replied to your comment on {{postname}}."
 
+
+https://www.figma.com/file/ThDWg3QKeHzIwI89pztiP2/Anchors.in-UI%2FUX?type=design&node-id=3578-1449&mode=design&t=89MRcOZWHJ2v2Bun-0
