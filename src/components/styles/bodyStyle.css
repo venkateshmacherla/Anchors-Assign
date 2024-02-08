@@ -1,0 +1,56 @@
+body {
+    background-color: #000;
+    color: #fff;
+    height: 100vh;
+    margin: 0;
+  }
+  .welcome-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+  }
+  .rocket-icon {
+    font-size: 24px; 
+    margin-right: 8px; 
+    cursor: pointer;
+  }
+  .paraText{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+  }
+
+  .headingTitle{
+    padding-top: 10px;
+  }
+
+  .createbtn{
+    background-color: #404040;
+    color: #fff;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .textColor{
+    color: #fff;
+    border: none;
+    text-decoration: none;
+  }
+  .arrow-icon {
+    font-size: 16px; /* Adjust the icon size as needed */
+    margin-left: 8px; /* Add margin for spacing between text and icon */
+  }
+  
+  .login-link {
+    color: #fff;
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,59 @@
+
+.otp-user-container {
+    background-color: black;
+    padding: 20px;
+    border: 2px solid grey;
+    max-width: 400px;
+    margin: 50px auto;
+  }
+  .rocket-icon {
+    font-size: 24px; 
+    margin-right: 8px; 
+    cursor: pointer;
+  }
+  .createbtn{
+    background-color: #404040;
+    color: #fff;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .textColor{
+    color: #fff;
+    border: none;
+    text-decoration: none;
+  }
+  .arrow-icon {
+    font-size: 16px; /* Adjust the icon size as needed */
+    margin-left: 8px; /* Add margin for spacing between text and icon */
+  }
+  
+  .welcome-text {
+    color: white;
+  }
+  
+  .input-container {
+    margin-bottom: 15px;
+  }
+  
+  .input-label {
+    color: white;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid white;
+    border-radius: 4px;
+    color: white;
+    background-color: black;
+  }
+  
+  
